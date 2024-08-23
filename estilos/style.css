@@ -1,0 +1,48 @@
+
+.container {
+    width: 950px;
+    background-color: #eaeaea;
+    /*margin: auto;*/
+    display: inline-block;
+}
+
+.top-a {
+    display: block;
+    height: 150px;
+    width: auto;
+    margin: 10px 10px;
+    background-color: yellow;
+}
+
+.main {
+    background-color: pink;
+    vertical-align: top;
+    margin: 10px;
+    height: 400px;
+    width: 700px;
+    display: inline-block;
+}
+
+.cuadro1 {
+    display: inline-block;
+    background-color: blue;
+    height: 200px;
+    width: 210px;
+    margin: 10px;
+}
+
+.cuadro2 {
+    background-color: green;
+    height: 120px;
+    width: 650px;
+    margin: 10px;
+}
+
+.cuadro-l {
+    background-color: #66ccff;
+    width: 200px;
+    height: 400px;
+    display: inline-block;
+    box-sizing: border-box;
+    margin: 10px;
+}
